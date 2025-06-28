@@ -112,8 +112,8 @@ To run this project locally, follow these steps.
 **1. Clone the Repository**
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone <https://github.com/AzShet/Data_Mining-LAB15.git>
+cd <Data_Mining-LAB15>
 ```
 
 **2. Create and Activate a Virtual Environment**
